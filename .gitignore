@@ -1,0 +1,19 @@
+# Terraform files
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+planout
+
+# OS specific files
+.DS_Store
+node_modules
+.tmp
+npm-debug.log
